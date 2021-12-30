@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&family=VT323&display=swap');
+body{
+	
+	background-image:url("https://wallpaperaccess.com/full/3166789.jpg");
+	background-size:cover;
+	background-position:center;
+	margin:40px;
+	text-align:center;
+	color:white;	
+	font-family: 'Corinthia', cursive;
+	font-family: 'VT323', monospace
+}
+
+header{
+	
+	background-color:white;
+	color:red;
+	border-color:red;
+	border-radius:80px;
+	border-style:dotted;
+	border-width:6px;
+	opacity: 80%;
+}
+header h1{
+	font-size:80px;
+}header h2{
+	font-size:40px;
+}
+
+article, fieldset, legend{
+	background-color:white;
+	color:red;
+	border-color:red;
+	border-radius:80px;
+	border-style:dotted;
+	border-width:6px;
+	opacity: 80%;
+}
+h2{
+	font-size:40;
+}
+p{
+	font-size:20;
+}
+
